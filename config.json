@@ -1,0 +1,15 @@
+{
+    "url": "http://192.168.0.107:8080/rest/v1/ads",
+    "description": {
+        "sourceId": "324234dscsd32",
+        "description": "New flat test1",
+        "city": "Belgrade",
+        "region": "Region1",
+        "roomNumber": 1.5,
+        "square": 85.6,
+        "floor": 2,
+        "isFurnished": true,
+        "linkToAds": "http://google.com",
+        "source": "AVITO"
+    }
+}
