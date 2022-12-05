@@ -10,6 +10,7 @@
         "floor": 2,
         "isFurnished": true,
         "linkToAds": "http://google.com",
-        "source": "AVITO"
+        "source": "AVITO",
+        "price": "€1232"
     }
 }
